@@ -1,4 +1,4 @@
 .DS_Store
 train/
 test/
-
+.ipynb_checkpoints/
